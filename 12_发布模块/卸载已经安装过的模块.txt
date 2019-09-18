@@ -1,0 +1,5 @@
+1.进入到 /usr/local/lib/python3/dist-packages/
+
+2.输入 sudo rm -r hm_message*
+
+3.成功！

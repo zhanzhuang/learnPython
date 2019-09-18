@@ -1,0 +1,6 @@
+1.将hm_message-1.0.tar.gz解压
+
+2.进入到解压后的目录，有 hm_message PKG-INFO(模块的描述文件) setup.py
+
+3.sudo python(解释器版本) setup.py install(执行后模块就安装成功)
+
